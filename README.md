@@ -1,3 +1,3 @@
 # demo-repository
 This is my demo repository
-author - RohitbGit
+author - Rohit Bhola
